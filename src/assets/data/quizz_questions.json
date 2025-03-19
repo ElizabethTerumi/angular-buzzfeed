@@ -1,0 +1,58 @@
+{
+  "title": "Qual CEO do mundo tech mais se alinha ao seu estilo de liderança: Jeff Bezos (Amazon) ou Tim Cook (Apple)?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Como você prefere abordar os desafios?",
+      "options": [
+        {"id": 1, "name": "Com ousadia e buscando soluções disruptivas", "alias": "A"},
+        {"id": 2, "name": "De forma mais cuidadosa, com foco em resultados estáveis", "alias": "B"},
+        {"id": 3, "name": "Analisando profundamente os dados antes de tomar qualquer ação", "alias": "C"},
+        {"id": 4, "name": "Focando em pequenas vitórias e aprendendo com cada falha", "alias": "D"}
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual é a sua abordagem em relação a riscos no ambiente de trabalho?",
+      "options": [
+        {"id": 1, "name": "Encaro riscos calculados com grande potencial de inovação", "alias": "A"},
+        {"id": 2, "name": "Prefiro riscos menores, priorizando segurança e estabilidade", "alias": "B"},
+        {"id": 3, "name": "Acredito que o risco deve ser calculado, mas devemos sempre buscar o maior crescimento possível", "alias": "C"}
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Como você lida com a inovação dentro da sua empresa?",
+      "options": [
+        {"id": 1, "name": "Inovação é a chave para o crescimento e sempre procuro ir além", "alias": "A"},
+        {"id": 2, "name": "Inovação é importante, mas deve ser equilibrada com a consistência", "alias": "B"},
+        {"id": 3, "name": "Foco constante em pesquisa e desenvolvimento para garantir que estamos à frente", "alias": "C"},
+        {"id": 4, "name": "Priorizar inovação prática e incremental, sem abrir mão de uma base sólida", "alias": "D"}
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Como você encara a cultura organizacional?",
+      "options": [
+        {"id": 1, "name": "Uma cultura de alta performance, com foco em resultados e crescimento rápido", "alias": "A"},
+        {"id": 2, "name": "Uma cultura colaborativa, com foco no bem-estar e trabalho em equipe", "alias": "B"},
+        {"id": 3, "name": "Uma cultura dinâmica e adaptável, com foco na inovação constante", "alias": "C"},
+        {"id": 4, "name": "Uma cultura de estabilidade, com foco em processos bem definidos e qualidade", "alias": "D"}
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual a sua visão sobre privacidade e ética no uso de dados dos consumidores?",
+      "options": [
+        {"id": 1, "name": "Acredito que dados dos consumidores podem ser usados para melhorar a experiência e personalização", "alias": "A"},
+        {"id": 2, "name": "Privacidade e segurança dos dados são prioritárias, e devemos ser cautelosos com seu uso", "alias": "B"},
+        {"id": 3, "name": "Devemos equilibrar privacidade com a inovação, criando um ambiente onde os dados são usados para benefício mútuo", "alias": "C"},
+        {"id": 4, "name": "Privacidade e transparência são fundamentais, garantindo que os consumidores confiem em nossas práticas", "alias": "D"}
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você se alinha mais com o estilo arrojado e visionário de Jeff Bezos, focado em crescimento rápido e inovação disruptiva!",
+    "B": "Você se alinha mais com o estilo equilibrado e focado na harmonia de Tim Cook, com um grande valor em colaboração e estabilidade."
+  }
+}
